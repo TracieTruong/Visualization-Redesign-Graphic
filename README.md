@@ -11,3 +11,5 @@ The captures of my outputs:
 - [Napoleon's Troop Movements Across Europe (Interactive)](https://github.com/TracieTruong/Visualization-Redesign-Graphic/blob/e177031ed36217fdc49d579c9b7497272e1a3d33/Plot_3.png)
 
 [Read more](https://github.com/TracieTruong/Visualization-Assignment-2-Redesign-Graphic/blob/main/Redesign_Graphic_Minard_Map.ipynb)
+
+[Return to my portfolio](https://tracietruong.github.io/Portfolio/)
